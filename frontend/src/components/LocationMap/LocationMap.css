@@ -1,0 +1,17 @@
+
+.images {
+  /* background-image: url("https://static.thenounproject.com/png/96290-200.png"); */
+  background-repeat: no-repeat;
+  width: 2px;
+  height: 3px;
+}
+
+#map .ol-shop-location {
+  background-image: url("https://png.pngtree.com/png-vector/20221130/ourmid/pngtree-store-or-shop-location-pin-icon-in-orange-color-png-image_6485372.png");
+  background-repeat: no-repeat;
+  width: 2px;
+  height: 2px;
+}
+
+
+
