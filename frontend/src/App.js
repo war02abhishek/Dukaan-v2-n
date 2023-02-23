@@ -53,10 +53,10 @@ import UpdateProduct from "./components/Admin/UpdateProduct.js";
 import UpdateUser from "./components/Admin/UpdateUser.js";
 import UpdatePassword from "./components/User/UpdatePassword.js";
 import UpdateOrder from "./components/Admin/UpdateOrderP.js";
-import LocationMap from "./components/LocationMap/LocationMap.js";
-import LocationM from "./components/LocationMap/LocationMap2.js";
-import LocationMap3 from "./components/LocationMap/LocationMap3.js";
-import LocationMap4 from "./components/LocationMap/LocationMap4.js";
+// import LocationMap from "./components/LocationMap/LocationMap.js";
+// import LocationM from "./components/LocationMap/LocationMap2.js";
+// import LocationMap3 from "./components/LocationMap/LocationMap3.js";
+// import LocationMap4 from "./components/LocationMap/LocationMap4.js";
 import Payment2 from "./components/Cart/Payment2.js";
 import ForgotPassword from "./components/User/ForgotPassword.js";
 import ForgotPassword2 from "./components/User/ForgotPassword2.js";
@@ -160,8 +160,8 @@ function App() {
           <Route path="/admin/order/:id" element={<UpdateOrder />} />
           {/* <Route path="/location" element={<LocationMap/>}/> */}
           {/* <Route path="/lop" element={<LocationM/>}/> */}
-          <Route path="/lopp" element={<LocationMap3 />} />
-          <Route path="/duk" element={<LocationMap4 />} />
+          {/* <Route path="/lopp" element={<LocationMap3 />} />
+          <Route path="/duk" element={<LocationMap4 />} /> */}
           {/* <Route path="/forgot/password" element={<ForgotPassword/>}/> */}
           <Route path="/forgot/password" element={<ForgotPassword2 />} />
           <Route
