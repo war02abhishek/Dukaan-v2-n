@@ -12,8 +12,8 @@ import { getAllOrders } from "../../actions/orderAction.js";
 import { getAllUsers, loadUser } from "../../actions/userAction.js";
 import MetaData from "../Layout/MetaData";
 
-import { Chart as ChartJS } from "chart.js/auto";
-import { Chart } from "react-chartjs-2";
+// import { Chart as ChartJS } from "chart.js/auto";
+// import { Chart } from "react-chartjs-2";
 import CountUp from "react-countup";
 import ScrollTrigger from "react-scroll-trigger";
 import { useNavigate } from "react-router-dom";

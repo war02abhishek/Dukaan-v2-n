@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f4d6e4bb.css",
-    "main.js": "/static/js/main.1f98e9c1.js",
+    "main.js": "/static/js/main.df9f5ecc.js",
+    "static/media/DukaanLogo.png": "/static/media/DukaanLogo.3fddd5a61306c340aff4.png",
     "static/media/logoE1.jpg": "/static/media/logoE1.30189e330d11dbb5c7bb.jpg",
     "static/media/Playstore.png": "/static/media/Playstore.82b4831979e0ce7c733e.png",
     "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
     "index.html": "/index.html",
     "main.f4d6e4bb.css.map": "/static/css/main.f4d6e4bb.css.map",
-    "main.1f98e9c1.js.map": "/static/js/main.1f98e9c1.js.map"
+    "main.df9f5ecc.js.map": "/static/js/main.df9f5ecc.js.map"
   },
   "entrypoints": [
     "static/css/main.f4d6e4bb.css",
-    "static/js/main.1f98e9c1.js"
+    "static/js/main.df9f5ecc.js"
   ]
 }
