@@ -58,7 +58,7 @@ import UpdateOrder from "./components/Admin/UpdateOrderP.js";
 // import LocationMap3 from "./components/LocationMap/LocationMap3.js";
 // import LocationMap4 from "./components/LocationMap/LocationMap4.js";
 import Payment2 from "./components/Cart/Payment2.js";
-import ForgotPassword from "./components/User/ForgotPassword.js";
+// import ForgotPassword from "./components/User/ForgotPassword.js";
 import ForgotPassword2 from "./components/User/ForgotPassword2.js";
 import ResetPasswordForm from "./components/User/ResetPasswordForm.js";
 import Footer2 from "./components/Layout/Footer2/Footer2.js";
